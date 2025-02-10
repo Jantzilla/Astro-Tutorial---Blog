@@ -12,9 +12,11 @@
     "@astrojs/preact": "^4.0.4",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/svelte": "^7.0.4",
+    "@tailwindcss/vite": "^4.0.5",
     "astro": "^5.2.5",
     "preact": "^10.25.4",
     "svelte": "^5.19.9",
+    "tailwindcss": "^4.0.5",
     "typescript": "^5.7.3"
   }
 }
